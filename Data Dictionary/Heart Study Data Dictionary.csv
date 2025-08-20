@@ -1,0 +1,17 @@
+Field names,Data Type (Kaggle),Desired Data Type,Indicator Column,Target Variable,Description
+male,int,int,Yes,No,Indicates if the patient is male (1) or female (0)
+age,int,int,No,No,Age of patient in years
+education,String,int,No,No,Education level of the patient (1 to 4)
+currentSmoker,int,int,Yes,No,Indicates if the patient is a current smoker (1) or not (0)
+cigsPerDay,String,int,No,No,Number of cigarettes smoked per day
+BPMeds,String,int,Yes,No,Indicates if the patient is on blood pressure medication (1) or not (0)
+prevalentStroke,int,int,Yes,No,Indicates if the patient has a history of stroke (1) or not (0)
+prevalentHyp,int,int,Yes,No,Indicates if the patient has a history of hypertension (1) or not (0)
+diabetes,Int,int,Yes,No,Indicates if the patient has diabetes (1) or not (0)
+totChol,String,int,No,No,Total cholesterol level of the patient
+sysBP,Float,Float,No,No,Systolic blood pressure of the patient
+diaBP,int,int,No,No,Diastolic blood pressure of the patient
+BMI,String,Float,No,No,Body Mass Index of the patient
+heartRate,String,int,No,No,Heart rate of the patient
+glucose,String,int,No,No,Glucose level of the patient
+TenYearCHD,int,int,Yes,Yes,Indicates the 10-year risk of coronary heart disease (1) or not (0)
